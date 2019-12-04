@@ -14,7 +14,7 @@ public class Main
 	 public static void main(String[] args) throws LoginException 
 	 {
 	        JDABuilder builder = new JDABuilder();
-	        builder.setToken("NjI5MDk2NTExMjQ1OTEwMDE2.XaK2gQ.2-BsZW2FyjicNOsk0xIQlledtjQ");
+	        builder.setToken(" ");
 	        builder.setStatus(OnlineStatus.ONLINE);
 	
 	        // Register listeners
